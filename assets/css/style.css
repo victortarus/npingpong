@@ -1,0 +1,60 @@
+ body {
+	font-size: 18px;
+	background:  linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	font-family: 'Fredoka One', cursive;
+	padding: 50px;
+	padding-bottom: 325px;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 60px;
+}
+
+h4 {
+	color: #ffffb3;
+}
+
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -20px;
+}
+
+.game-rules {
+	width: 70%;
+	float: right;
+	margin-top: 30px;
+	height: 100%;
+}
+
+input[type=text], input[type=email] {
+	width: 400px;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+#output li {
+	list-style: none;
+	display: inline-block;
+	padding: 10px;
+}
+
+body::-webkit-scrollbar { width: 0em; };
+
+#ping-pong-form, #ping-pong-form  button {
+	color: black;
+}
+
+h1, li, p, label {
+	color: white;
+}

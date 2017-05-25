@@ -1,0 +1,23 @@
+{
+  "name": "ping-pong",
+  "description": "Author: [Edward Mudaida](https://github.com/EdwardMudaid)",
+  "main": "index.js",
+  "authors": [
+    "EdwardMudaida <eddieigo8@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/EdwardMudaida/ping-pong",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  }
+}
